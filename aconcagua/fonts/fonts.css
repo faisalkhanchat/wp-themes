@@ -1,0 +1,41 @@
+@font-face {
+		font-family: 'MPR';
+		src: url('MPR/myriadproregular.eot');
+		src: url('MPR/myriadproregular.eot?#iefix') format('embedded-opentype'),
+				 url('MPR/myriadproregular.woff') format('woff'),
+				 url('MPR/myriadproregular.ttf') format('truetype'),
+				 url('MPR/myriadproregular.svg#myriadproregular') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+
+@font-face {
+		font-family: 'HBC';
+		src: url('HBC/helveticaneueltprobdcn.eot');
+		src: url('HBC/helveticaneueltprobdcn.eot?#iefix') format('embedded-opentype'),
+				 url('HBC/helveticaneueltprobdcn.woff') format('woff'),
+				 url('HBC/helveticaneueltprobdcn.ttf') format('truetype'),
+				 url('HBC/helveticaneueltprobdcn.svg#helveticaneueltprobdcn') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+
+@font-face {
+		font-family: 'HLC';
+		src: url('HLC/helveticaneueltproltcn.eot');
+		src: url('HLC/helveticaneueltproltcn.eot?#iefix') format('embedded-opentype'),
+				 url('HLC/helveticaneueltproltcn.woff') format('woff'),
+				 url('HLC/helveticaneueltproltcn.ttf') format('truetype'),
+				 url('HLC/helveticaneueltproltcn.svg#helveticaneueltproltcn') format('svg');
+		font-weight: normal;
+}
+
+@font-face {
+		font-family: 'MPBC';
+		src: url('MPBC/MyriadPro-BoldCond.eot');
+		src: url('MPBC/MyriadPro-BoldCond.eot?#iefix') format('embedded-opentype'),
+				 url('MPBC/MyriadPro-BoldCond.woff') format('woff'),
+				 url('MPBC/MyriadPro-BoldCond.ttf') format('truetype'),
+				 url('MPBC/MyriadPro-BoldCond.svg#MyriadPro-BoldCond') format('svg');
+		font-weight: normal;
+}
